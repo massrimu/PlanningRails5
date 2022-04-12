@@ -1,4 +1,7 @@
-# Planning a Greater Greater Lansing
+# 
+
+[I'm an inline-style link](https://www.google.com)
+## Planning a Greater Greater Lansing
 Jump Start a Rails App developement. Fork this. Rails + Devise + Paperclip setup.
 
 # This is built on RailsJumpStart. Pre-installed Gems:
